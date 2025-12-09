@@ -1,0 +1,7 @@
+{
+  "name": "MotoRent ERP Enterprise",
+  "description": "A comprehensive ERP system for vehicle rental management featuring double-entry accounting, fleet tracking, and a multimodal AI voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
